@@ -55,7 +55,7 @@ full `out/findings.md` report.
 - **Defect lifecycle**: OPEN to TRIAGED to RESOLVED to VALIDATED mirrors a standard defect-tracking flow,
   which is what the cycle-time and validation-rate KPIs measure.
 
-## Honest limits
+## Limitations
 The snapshots are synthetic, so the figures are illustrative. This models the *core* of CRM data-quality
 and release support (validation, regression isolation, triage, release gating, KPIs); it is not a full
 platform (no live CRM connector, no workflow engine, no UI). The point is to show I understand what
